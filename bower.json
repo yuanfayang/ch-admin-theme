@@ -16,6 +16,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://git.oschina.net/yuanfayang.newability/ch-admin-theme-bower.git"
+    "url": "git@github.com:yuanfayang/ch-admin-theme.git"
   }
 }
